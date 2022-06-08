@@ -146,7 +146,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Zhafri Shafiq - zhafrishafiq@gmail.com
+Zhafri Shafiq - [@zhafrishafiq](https://twitter.com/zhafrishafiq) - zhafrishafiq@gmail.com
 
 Project Link: [https://github.com/zhafri-shafiq/py-text-editor](https://github.com/zhafri-shafiq/py-text-editor)
 
